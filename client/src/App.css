@@ -1,0 +1,39 @@
+.btn-outline-dark {
+  color: #343a40; /* Default text color */
+  transition: all 0.3s ease; /* Smooth transition */
+}
+
+.btn-outline-dark:hover {
+  color: #ffffff; /* Change text color to white on hover */
+  background-color: #343a40; /* Dark background on hover */
+  border-color: #343a40; /* Change border color to match the background */
+}
+
+
+.navbar {
+  background-color: #f8f9fa; /* Light background */
+}
+
+.navbar-light .navbar-brand {
+  color: #000; /* Black color for brand text */
+}
+
+.navbar-light .btn-outline-dark {
+  color: #000; /* Black text color for button */
+  border-color: #000; /* Black border color for button */
+  transition: all 0.3s; /* Smooth transition */
+}
+
+.navbar-light .btn-outline-dark:hover {
+  background-color: #000; /* Background color on hover */
+  color: #fff; /* White text color on hover */
+}
+
+.btn-group .fa {
+  font-size: 1.1rem; /* Adjust icon size */
+}
+
+
+.gap {
+  margin-bottom: 100px;
+}
