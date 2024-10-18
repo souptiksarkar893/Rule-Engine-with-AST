@@ -41,7 +41,7 @@ You will need to have the following installed on your machine:
 
 Clone the repository:
    ```bash
-git clone https://https://https://github.com/souptiksarkar893/Rule-Engine-with-AST.git
+git clone https://github.com/souptiksarkar893/Rule-Engine-with-AST.git
 cd Rule-Engine-with-AST/server
 ```
 
