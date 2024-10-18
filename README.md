@@ -71,7 +71,7 @@ cd Rule-Engine-with-AST/server
 
 2. Install client dependencies:
    ```bash
-   npm install
+   npm install --legacy-peer-deps
    ```
 
 3. Start the React development server:
